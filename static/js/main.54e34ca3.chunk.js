@@ -1,2 +1,0 @@
-(this["webpackJsonpuk-website"]=this["webpackJsonpuk-website"]||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var r=n(0),u=n.n(r),o=n(2);var s=function(){return u.a.createElement("div",null,"Hello")};n.n(o).a.render(u.a.createElement(s,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.54e34ca3.chunk.js.map
