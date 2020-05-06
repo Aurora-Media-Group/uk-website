@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/git%20p/static/js/main.54e34ca3.chunk.js",
-    "main.js.map": "/git%20p/static/js/main.54e34ca3.chunk.js.map",
-    "runtime-main.js": "/git%20p/static/js/runtime-main.29eaecf6.js",
-    "runtime-main.js.map": "/git%20p/static/js/runtime-main.29eaecf6.js.map",
-    "static/js/2.c3569ec9.chunk.js": "/git%20p/static/js/2.c3569ec9.chunk.js",
-    "static/js/2.c3569ec9.chunk.js.map": "/git%20p/static/js/2.c3569ec9.chunk.js.map",
-    "index.html": "/git%20p/index.html",
-    "precache-manifest.f9cac1873a8a2d92ddfcc98a4a5de4be.js": "/git%20p/precache-manifest.f9cac1873a8a2d92ddfcc98a4a5de4be.js",
-    "service-worker.js": "/git%20p/service-worker.js",
-    "static/js/2.c3569ec9.chunk.js.LICENSE.txt": "/git%20p/static/js/2.c3569ec9.chunk.js.LICENSE.txt"
+    "main.js": "/uk-website/static/js/main.54e34ca3.chunk.js",
+    "main.js.map": "/uk-website/static/js/main.54e34ca3.chunk.js.map",
+    "runtime-main.js": "/uk-website/static/js/runtime-main.c781ec85.js",
+    "runtime-main.js.map": "/uk-website/static/js/runtime-main.c781ec85.js.map",
+    "static/js/2.c3569ec9.chunk.js": "/uk-website/static/js/2.c3569ec9.chunk.js",
+    "static/js/2.c3569ec9.chunk.js.map": "/uk-website/static/js/2.c3569ec9.chunk.js.map",
+    "index.html": "/uk-website/index.html",
+    "precache-manifest.df2eabf37409ed830ceafd40c21272ce.js": "/uk-website/precache-manifest.df2eabf37409ed830ceafd40c21272ce.js",
+    "service-worker.js": "/uk-website/service-worker.js",
+    "static/js/2.c3569ec9.chunk.js.LICENSE.txt": "/uk-website/static/js/2.c3569ec9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.29eaecf6.js",
+    "static/js/runtime-main.c781ec85.js",
     "static/js/2.c3569ec9.chunk.js",
     "static/js/main.54e34ca3.chunk.js"
   ]
