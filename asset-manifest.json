@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/uk-website/static/css/main.d1b05096.chunk.css",
+    "main.js": "/uk-website/static/js/main.aefeb5e8.chunk.js",
+    "main.js.map": "/uk-website/static/js/main.aefeb5e8.chunk.js.map",
+    "runtime-main.js": "/uk-website/static/js/runtime-main.c781ec85.js",
+    "runtime-main.js.map": "/uk-website/static/js/runtime-main.c781ec85.js.map",
+    "static/js/2.44ad3d36.chunk.js": "/uk-website/static/js/2.44ad3d36.chunk.js",
+    "static/js/2.44ad3d36.chunk.js.map": "/uk-website/static/js/2.44ad3d36.chunk.js.map",
+    "index.html": "/uk-website/index.html",
+    "precache-manifest.abb34bb900f67ae35a3f2a61b524c877.js": "/uk-website/precache-manifest.abb34bb900f67ae35a3f2a61b524c877.js",
+    "service-worker.js": "/uk-website/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/uk-website/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.44ad3d36.chunk.js.LICENSE.txt": "/uk-website/static/js/2.44ad3d36.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/uk-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c781ec85.js",
+    "static/js/2.44ad3d36.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.aefeb5e8.chunk.js"
+  ]
+}
