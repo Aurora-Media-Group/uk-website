@@ -4,9 +4,11 @@ import Navbar from './Navbar';
 import Header from './Header';
 import Socials from './Socials';
 
+import '../css/home.css';
+
 export default function Home() {
   return (
-    <div>
+    <div id='homepage'>
       <div>
         <Background />
         <Navbar />

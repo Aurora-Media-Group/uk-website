@@ -1,22 +1,23 @@
 import React from 'react';
+import { Link, Route, Switch } from 'react-router-dom';
 
 function Navbar() {
   return (
     <div id='navdiv'>
       <ul id='navbar'>
         <li>
-          <a href='#'>
+          <Link to='/'>
             <div id='clickable' class='home'>
               HOME
             </div>
-          </a>
+          </Link>
         </li>
         <li>
-          <a href='#'>
+          <Link to='/about'>
             <div id='clickable' class='about'>
               ABOUT
             </div>
-          </a>
+          </Link>
         </li>
         <li>
           <a href='#'>
