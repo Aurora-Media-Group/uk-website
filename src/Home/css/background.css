@@ -1,0 +1,72 @@
+body {
+  background: url(https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/bg1.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#clickable1 {
+  position: fixed;
+  bottom: 50px;
+  right: 70px;
+  display: flex;
+}
+#clickable2 {
+  background: rgba(255, 255, 255, 0.14);
+  color: white;
+  border-radius: 50px;
+  text-align: center;
+  transition: 0.5s;
+  width: 120px;
+  height: 50px;
+  margin-left: -40px;
+}
+#clickable2:hover {
+  background: rgba(255, 255, 255, 0.26);
+  cursor: pointer;
+}
+
+#clickable3 {
+  background: rgba(255, 255, 255, 0.14);
+  color: white;
+  border-radius: 50px;
+  text-align: center;
+  transition: 0.5s;
+  width: 120px;
+  height: 50px;
+  margin-left: -40px;
+}
+#clickable3:hover {
+  background: rgba(255, 255, 255, 0.26);
+  cursor: pointer;
+}
+
+#clickable4 {
+  background: rgba(255, 255, 255, 0.14);
+  color: white;
+  border-radius: 50px;
+  text-align: center;
+  transition: 0.5s;
+  width: 120px;
+  height: 50px;
+  margin-left: -40px;
+}
+#clickable4:hover {
+  background: rgba(255, 255, 255, 0.26);
+  cursor: pointer;
+}
+
+#clickable5 {
+  background: rgba(255, 255, 255, 0.14);
+  color: white;
+  border-radius: 50px;
+  text-align: center;
+  transition: 0.5s;
+  width: 120px;
+  height: 50px;
+  margin-left: -40px;
+}
+#clickable5:hover {
+  background: rgba(255, 255, 255, 0.26);
+  cursor: pointer;
+}

@@ -1,6 +1,7 @@
 {
   "homepage": "https://auroramediagroup.co.uk/",
   "name": "uk-website",
+  "author": "Umar Farooq",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
