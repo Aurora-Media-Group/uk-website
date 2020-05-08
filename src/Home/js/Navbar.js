@@ -1,37 +1,37 @@
 import React from 'react';
-import { Link, Route, Switch } from 'react-router-dom';
+import { NavLink, Route, Switch } from 'react-router-dom';
 
 function Navbar() {
   return (
     <div id='navdiv'>
       <ul id='navbar'>
         <li>
-          <Link to='/'>
+          <NavLink to='/'>
             <div id='clickable' class='home'>
               HOME
             </div>
-          </Link>
+          </NavLink>
         </li>
         <li>
-          <Link to='/about'>
+          <NavLink to='/about'>
             <div id='clickable' class='about'>
               ABOUT
             </div>
-          </Link>
+          </NavLink>
         </li>
         <li>
-          <a href='#'>
+          <NavLink to='/team'>
             <div id='clickable' class='team'>
               TEAM
             </div>
-          </a>
+          </NavLink>
         </li>
         <li>
-          <a href='#'>
+          <NavLink to='/work'>
             <div id='clickable' class='work'>
               WORK
             </div>
-          </a>
+          </NavLink>
         </li>
       </ul>
     </div>
