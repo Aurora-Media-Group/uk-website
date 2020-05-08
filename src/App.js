@@ -46,7 +46,7 @@ class App extends React.Component {
             <div
               id='clickable2'
               onClick={(event) => {
-                document.body.style.background = "url('https://www.auroramediagroup.co.uk/static/media/bg.37c17300.png')";
+                document.body.style.background = "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/bg1.png')";
                 event.target.style.background = 'rgba(255, 255, 255, 0.26)';
                 document.getElementById('clickable3').style.background = 'rgba(255, 255, 255, 0.14)';
                 document.getElementById('clickable4').style.background = 'rgba(255, 255, 255, 0.14)';
@@ -56,7 +56,7 @@ class App extends React.Component {
             <div
               id='clickable3'
               onClick={(event) => {
-                document.body.style.background = "url('https://www.imagedost.com/images/4e6ysk1hgvtqp4ff25q.jpg')";
+                document.body.style.background = "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/bg3.jpg')";
                 event.target.style.background = 'rgba(255, 255, 255, 0.26)';
                 document.getElementById('clickable2').style.background = 'rgba(255, 255, 255, 0.14)';
                 document.getElementById('clickable4').style.background = 'rgba(255, 255, 255, 0.14)';
@@ -66,7 +66,7 @@ class App extends React.Component {
             <div
               id='clickable4'
               onClick={(event) => {
-                document.body.style.background = "url('https://www.imagedost.com/images/txp4lrchv7e7x944fpnp.jpg')";
+                document.body.style.background = "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/bg4.jpg')";
                 event.target.style.background = 'rgba(255, 255, 255, 0.26)';
                 document.getElementById('clickable2').style.background = 'rgba(255, 255, 255, 0.14)';
                 document.getElementById('clickable3').style.background = 'rgba(255, 255, 255, 0.14)';
@@ -76,7 +76,7 @@ class App extends React.Component {
             <div
               id='clickable5'
               onClick={(event) => {
-                document.body.style.background = "url('https://www.imagedost.com/images/i3xqyxbwy21e3ibjw.jpg')";
+                document.body.style.background = "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/bg5.jpg')";
                 event.target.style.background = 'rgba(255, 255, 255, 0.26)';
                 document.getElementById('clickable2').style.background = 'rgba(255, 255, 255, 0.14)';
                 document.getElementById('clickable3').style.background = 'rgba(255, 255, 255, 0.14)';
