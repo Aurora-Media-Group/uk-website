@@ -8,7 +8,7 @@ import '../css/home.css';
 
 export default function Home() {
   return (
-    <div id='homepage'>
+    <div id='homepage' style={{ width: '100vw', height: '100vh' }}>
       <div>
         <Background />
         <Navbar />
