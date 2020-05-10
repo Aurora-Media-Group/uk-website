@@ -12,7 +12,10 @@
 .aboutblock {
   width: 33.33333vw;
   height: 500px;
-  background-color: black;
+  background: url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/about.jpg');
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   position: absolute;
   left: 0;
   top: 30vh;
