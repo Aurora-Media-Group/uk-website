@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink, Route, Switch } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 
 function Navbar() {
   return (
@@ -14,13 +14,7 @@ function Navbar() {
         </li>
         <li>
           <NavLink to='/about'>
-            <div
-              id='clickable'
-              className='about'
-              onClick={() => {
-                document.body.style.background = 'white';
-              }}
-            >
+            <div id='clickable' className='about'>
               ABOUT
             </div>
           </NavLink>
