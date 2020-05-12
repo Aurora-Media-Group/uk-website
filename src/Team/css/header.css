@@ -1,0 +1,22 @@
+#header {
+  color: white;
+  font-family: 'Bebas Neue';
+  font-size: 300px;
+  line-height: 130px;
+  padding-top: 225px;
+  padding-left: 120px;
+  /* animation: fadein 4s;
+    -moz-animation: fadein 4s;
+    -webkit-animation: fadein 4s;
+    -o-animation: fadein 4s; */
+}
+#bottom-header {
+  color: white;
+  font-family: 'Source Sans Pro';
+  font-size: 129px;
+  padding-left: 110px;
+  animation: fadein 4s;
+  -moz-animation: fadein 4s;
+  -webkit-animation: fadein 4s;
+  -o-animation: fadein 4s;
+}

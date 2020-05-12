@@ -1,0 +1,10 @@
+@import './teamcontent.css';
+body {
+  height: 100%;
+  margin: 0px;
+  background: url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/fh4.jpg') no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

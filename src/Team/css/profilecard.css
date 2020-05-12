@@ -1,0 +1,25 @@
+.backing {
+  padding: 30px;
+  display: inline-block;
+  text-align: center;
+}
+.profile {
+  width: 410px;
+  height: 130px;
+  background: white;
+  border-radius: 20px;
+  margin: 0 auto;
+  display: flex;
+}
+.div-center {
+  text-align: center;
+  padding-top: 60px;
+}
+.profilePic {
+  width: 90px;
+  height: 90px;
+  background: red;
+  border-radius: 50%;
+  align-self: center;
+  margin-left: 25px;
+}
