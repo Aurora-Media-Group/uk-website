@@ -34,3 +34,8 @@ a {
 #clickable:hover {
   background: rgba(255, 255, 255, 0.26);
 }
+
+div[disabled] {
+  pointer-events: none;
+  opacity: 0.7;
+}

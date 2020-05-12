@@ -27,8 +27,8 @@ function Navbar() {
           </NavLink>
         </li>
         <li>
-          <NavLink to='/work'>
-            <div id='clickable' className='work'>
+          <NavLink to='/#'>
+            <div id='clickable' className='work' disabled>
               WORK
             </div>
           </NavLink>

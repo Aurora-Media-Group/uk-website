@@ -21,9 +21,9 @@ export default class Background extends Component {
           <div
             id='clickable2'
             onClick={(event) => {
-              document.body.style.background = "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/fh4.jpg')";
+              document.body.style.background = "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/fh4.jpg') ";
               this.setState({
-                currentBackground: "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/fh4.jpg')",
+                currentBackground: "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/fh4.jpg') no-repeat",
               });
               event.target.style.background = 'rgba(255, 255, 255, 0.26)';
               document.getElementById('clickable3').style.background = 'rgba(255, 255, 255, 0.14)';
@@ -35,9 +35,9 @@ export default class Background extends Component {
             id='clickable3'
             onClick={(event) => {
               document.body.style.background =
-                "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/something.jpg')";
+                "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/something.jpg') no-repeat";
               this.setState({
-                currentBackground: "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/something.jpg')",
+                currentBackground: "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/something.jpg') no-repeat",
               });
               event.target.style.background = 'rgba(255, 255, 255, 0.26)';
               document.getElementById('clickable2').style.background = 'rgba(255, 255, 255, 0.14)';
@@ -48,9 +48,10 @@ export default class Background extends Component {
           <div
             id='clickable4'
             onClick={(event) => {
-              document.body.style.background = "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/bg1.png')";
+              document.body.style.background =
+                "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/bg1.png') no-repeat";
               this.setState({
-                currentBackground: "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/bg1.png')",
+                currentBackground: "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/bg1.png') no-repeat",
               });
               event.target.style.background = 'rgba(255, 255, 255, 0.26)';
               document.getElementById('clickable2').style.background = 'rgba(255, 255, 255, 0.14)';
@@ -61,9 +62,10 @@ export default class Background extends Component {
           <div
             id='clickable5'
             onClick={(event) => {
-              document.body.style.background = "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/idk.jpg')";
+              document.body.style.background =
+                "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/idk.jpg') no-repeat";
               this.setState({
-                currentBackground: "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/idk.jpg')",
+                currentBackground: "url('https://raw.githubusercontent.com/Aurora-Media-Group/uk-website/master/src/images/idk.jpg') no-repeat",
               });
               event.target.style.background = 'rgba(255, 255, 255, 0.26)';
               document.getElementById('clickable2').style.background = 'rgba(255, 255, 255, 0.14)';
