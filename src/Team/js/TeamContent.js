@@ -35,38 +35,8 @@ export default function TeamContent(props) {
         desc='Part of Aurora Media Group UK'
       />
       <ProfileCard
-        pfp='https://cdn.discordapp.com/avatars/481898677250686986/2854fc6a0853b61358ecc131da00644c.png?size=512'
-        name='Isabelle Neale'
-        desc='Part of Aurora Media Group UK'
-      />
-      <ProfileCard
-        pfp='https://cdn.discordapp.com/avatars/655528729602424853/b38d1d9bd6a1f5d11ab4d36cd1631f3b.png?size=512'
-        name='Ell Neale'
-        desc='Part of Aurora Media Group UK'
-      />
-      <ProfileCard
-        pfp='https://cdn.discordapp.com/avatars/224240334723481601/3d3bdee16a36eb3f4c474ede6da5f3f4.png?size=512'
-        name='Joshua Dunderdale'
-        desc='Part of Aurora Media Group UK'
-      />
-      <ProfileCard
         pfp='https://www.discord.com/assets/322c936a8c8be1b803cd94861bdfa868.png'
         name='Emily Kettlewood'
-        desc='Part of Aurora Media Group UK'
-      />
-      <ProfileCard
-        pfp='https://cdn.discordapp.com/avatars/475061436884713483/9025ab17de0ab78353232abb89ed7290.png?size=512'
-        name='Amanda Richardson'
-        desc='Part of Aurora Media Group UK'
-      />
-      <ProfileCard
-        pfp='https://cdn.discordapp.com/avatars/596025591527112716/de07f2cbcd5432c2535f9f0033559be1.png?size=512'
-        name='Elora Hughes'
-        desc='Part of Aurora Media Group UK'
-      />
-      <ProfileCard
-        pfp='https://www.discord.com/assets/322c936a8c8be1b803cd94861bdfa868.png'
-        name='Casey Kettlewood'
         desc='Part of Aurora Media Group UK'
       />
     </div>
